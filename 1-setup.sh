@@ -251,7 +251,7 @@ fi
 
 echo -e "\nDone!\n"
 if ! source install.conf; then
-	read -p "Please enter username:" username
+	read -p "Please enter a username:" username
 echo "username=$username" >> ${HOME}/ArchHodag/install.conf
 fi
 if [ $(whoami) = "root"  ];
