@@ -58,6 +58,7 @@ pacman -U --noconfirm 'https://cdn-mirror.chaotic.cx/chaotic-aur/chaotic-keyring
 echo "[chaotic-aur]" >> /etc/pacman.conf
 echo "Include = /etc/pacman.d/chaotic-mirrorlist"
 echo -e "\nInstalling Base System\n"
+pacman -Sy --noconfirm
 
 PKGS=(
 'mesa' # Essential Xorg First
