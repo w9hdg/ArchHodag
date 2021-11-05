@@ -104,6 +104,7 @@ PKGS=(
 'gcc'
 'gimp' # Photo editing
 'git'
+'github-desktop-bin' # Github Desktop sync
 'gparted' # partition management
 'gptfdisk'
 'grub'
@@ -151,6 +152,7 @@ PKGS=(
 'openssh'
 'os-prober'
 'oxygen'
+'pamac-aur'
 'p7zip'
 'pacman-contrib'
 'patch'
