@@ -133,6 +133,7 @@ PKGS=(
 'kvantum-qt5'
 'kde-gtk-config'
 'kitty'
+'konsave'
 'konsole'
 'kscreen'
 'layer-shell-qt'
