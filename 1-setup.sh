@@ -68,6 +68,7 @@ PKGS=(
 'audiocd-kio' 
 'autoconf' # build
 'automake' # build
+'balena-etcher'
 'base'
 'bash-completion'
 'bind'
@@ -120,6 +121,7 @@ PKGS=(
 'kate'
 'kcodecs'
 'kcoreaddons'
+'kde-applications'
 'kde-plasma-addons'
 'kinfocenter'
 'kscreen'
